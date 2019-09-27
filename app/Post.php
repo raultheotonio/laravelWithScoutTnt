@@ -13,7 +13,7 @@ class Post extends Model
 
     public $asYouType = true;
 
-    public $fillable=['description'];
+    public $fillable=['description','tag'];
 
     public function toSearchableArray()
     {
