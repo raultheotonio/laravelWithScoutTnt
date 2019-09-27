@@ -15,3 +15,12 @@ php artisan db:seed
 php artisan tntsearch:import App\Post
 
 ```
+
+## Referencia
+
+### TNTSearch
+https://github.com/teamtnt/laravel-scout-tntsearch-driver#usage
+
+### Laravel Scout
+https://laravel.com/docs/5.7/scout
+
