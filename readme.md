@@ -19,7 +19,7 @@ php artisan tntsearch:import App\Post
 ## Referências
 
 ### TNTSearch
-https://github.com/teamtnt/laravel-scout-tntsearch-driver#usage
+https://github.com/teamtnt/laravel-scout-tntsearch-driver
 
 ### Laravel Scout
 https://laravel.com/docs/5.7/scout
